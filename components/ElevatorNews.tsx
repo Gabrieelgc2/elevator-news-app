@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
   },
 
   card: {
-    padding: 5,
+    padding: 2,
     borderRadius: 10,
     marginBottom: 10
   }
